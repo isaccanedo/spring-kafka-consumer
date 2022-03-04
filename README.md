@@ -1,5 +1,5 @@
 # spring-kafka-consumer
-Sample Kafka consumer built with Spring Kafka
+Exemplo de consumidor Kafka construído com Spring Kafka
 
 ## Starting Zookeeper and Kafka
 
